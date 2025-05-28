@@ -19,10 +19,9 @@
 
 A Data Scientist and Artificial Intelligence Engineer with 13+ years of experience across Fintech, Insurance, Banking, Telecommunications, and Digital Product Development. Skilled in GPT and Computer Vision, with a strong foundation in MLOps, data architecture, and scalable AI system design. Passionate about building real-world applications of machine learning and generative models.
 
-*   🔭 I’m currently working on AI and Machine Learning projects, focusing on [Specific area if any, e.g., LLM applications in Fintech].
-*   🌱 I’m currently learning [New Skill/Technology, e.g., Advanced Reinforcement Learning Techniques].
+*   🌱 I’m currently researching on focusing on Computer Vision, Agentic AI, industry specific LLM applications: Vertical AI application development in MarTech, AgriTech, legalTech and Fintech.
 *   👯 I’m looking to collaborate on innovative AI and Data Science projects, especially those with a social impact.
-*   🤔 I’m looking for help with [e.g., scaling MLOps pipelines for enterprise solutions].
+*   🤔 I’m looking for help with AgriTech Drone Engineering & AutoTech AI development..
 *   💬 Ask me about AI Strategy, Machine Learning, Data Science, MLOps, GPT, Computer Vision.
 *   📫 How to reach me: [prasadnimantha@gmail.com](mailto:prasadnimantha@gmail.com)
 *   😄 Pronouns: He/Him
