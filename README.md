@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E7EBF,100:29ABE2&height=200&section=header&text=Hi%20I'm%20Prasad%20Nimantha!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E7EBF,100:29ABE2&height=200&section=header&text=Hi%20I'm%20Nimantha%20Hewage!&fontSize=40&fontColor=ffffff" />
 </div>
 
 <h2 align="center">🚀 Data Scientist | AI/ML Engineer | Tech Strategist</h2>
-<p align="center">Founder @ OpenLabs Research | CTO @ Straton AI | AI-first Solution Architect 🌐</p>
+<p align="center">Founder @ OpenLabs Research | Co-founder CTO @ Straton AI | AI-first Solution Architect 🌐</p>
 
 ---
 
@@ -45,21 +45,39 @@ A Data Scientist and Artificial Intelligence Engineer with 13+ years of experien
 - Agile, JIRA, Bitbucket
 - Terraform, AWS CDK, CloudFormation
 
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
 ---
 
-### 📚 Research Publications
+---
 
-- **CNN for Character Recognition** — SSRN: [4401141](https://ssrn.com/abstract=4401141)
-- **GPT Corpora Evaluation** — SSRN: [4391815](https://ssrn.com/abstract=4391815)
-- **Mobile App Payments in Sri Lanka** — ResearchGate: [Link](https://www.researchgate.net/publication/369113220)
-- **Decision Trees & Gender vs. London Wage** — ZENODO: [Link](http://dx.doi.org/10.5281/zenodo.7723622)
+### 📚 Publications
+
+- **Manual Corpora Development for Generative Pre-trained Transformers (GPT) & Evaluation of GPT Model Learning Capability**  
+  [SSRN](https://ssrn.com/abstract=4391815) | [ResearchGate](https://www.researchgate.net/publication/369236247)
+
+- **White Paper: Setting up CNN (Convolutional Neural Network) for Character Recognition**  
+  [SSRN](https://ssrn.com/abstract=4401141) | [ResearchGate](https://www.researchgate.net/publication/369170564)
+
+- **The Factors Influencing the Adoption of the Mobile App Payments via Personal Care Apps in Telecommunication Sector of Sri Lanka**  
+  [ResearchGate](https://www.researchgate.net/publication/369113220)
 
 ---
 
 ### 🎓 Education & Certifications
 
 - **MBA in Data Analytics**, London Metropolitan University (UK) — Merit  
-- **BSc (Hons) Software Engineering**, London Metropolitan University — First Class  
+- **BSc (Hons) Software Engineering**, London Metropolitan University — First Class Honors  
 - **Diploma in Professional Marketing**, CIM (UK)  
 - **Diploma in Business Management**, ALISON  
 
