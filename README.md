@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Nimantha Hewage! 👋</h1>
-  <p>I'm a Data Scientist | AI/ML Engineer | Tech Strategist based in [Your City/Country - e.g., Colombo, Sri Lanka].</p>
+  <p>I'm a Data Scientist | AI/ML Engineer | Tech Strategist based in Sydney, Australia, originally from Sri Lanka].</p>
   <p>Founder @ OpenLabs Research | Co-founder CTO @ Straton AI | AI-first Solution Architect 🌐</p>
   <p>Welcome to my digital garden! 🌱 I'm passionate about building real-world applications of AI, machine learning, generative models, and driving innovation through data.</p>
 
@@ -19,10 +19,9 @@
 
 A Data Scientist and Artificial Intelligence Engineer with 13+ years of experience across Fintech, Insurance, Banking, Telecommunications, and Digital Product Development. Skilled in GPT and Computer Vision, with a strong foundation in MLOps, data architecture, and scalable AI system design. Passionate about building real-world applications of machine learning and generative models.
 
-*   🔭 I’m currently working on AI and Machine Learning projects, focusing on [Specific area if any, e.g., LLM applications in Fintech].
-*   🌱 I’m currently learning [New Skill/Technology, e.g., Advanced Reinforcement Learning Techniques].
+*   🔭 I’m currently working on AI, ComputerVision and Machine Learning projects, focusing on Vertical AI integrations in Martech, Agritech, EnergyTech, FinTech & LegalTech.
 *   👯 I’m looking to collaborate on innovative AI and Data Science projects, especially those with a social impact.
-*   🤔 I’m looking for help with [e.g., scaling MLOps pipelines for enterprise solutions].
+*   🤔 I’m looking for help with AI based Drone & AutoTech Engineering Solution design.
 *   💬 Ask me about AI Strategy, Machine Learning, Data Science, MLOps, GPT, Computer Vision.
 *   📫 How to reach me: [prasadnimantha@gmail.com](mailto:prasadnimantha@gmail.com)
 *   😄 Pronouns: He/Him
