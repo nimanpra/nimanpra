@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E7EBF,100:29ABE2&height=200&section=header&text=Hi%20I'm%20Nimantha%20Hewage!&fontSize=40&fontColor=ffffff" />
   <h1>Hi there, I'm Nimantha Hewage! 👋</h1>
   <p>I'm a Data Scientist | AI/ML Engineer | Tech Strategist based in Sydney, Australia originally from Sri Lanka.</p>
   <p>Founder @ OpenLabs Research | Co-founder CTO @ Straton AI | AI-first Solution Architect 🌐</p>
