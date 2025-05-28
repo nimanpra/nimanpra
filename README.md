@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Nimantha Hewage! 👋</h1>
-  <p>I'm a Data Scientist | AI/ML Engineer | Tech Strategist based in Sydney, Australia originally from Sri Lanka.</p>
+  <p>I'm a Data Scientist | AI/ML Engineer | Tech Strategist based in [Your City/Country - e.g., Colombo, Sri Lanka].</p>
   <p>Founder @ OpenLabs Research | Co-founder CTO @ Straton AI | AI-first Solution Architect 🌐</p>
-  <p> 🌱 I'm passionate about building real-world applications of AI, machine learning, generative models, and driving innovation through data.</p>
+  <p>Welcome to my digital garden! 🌱 I'm passionate about building real-world applications of AI, machine learning, generative models, and driving innovation through data.</p>
 
   <!-- Social Media Badges -->
   <p>
@@ -19,9 +19,10 @@
 
 A Data Scientist and Artificial Intelligence Engineer with 13+ years of experience across Fintech, Insurance, Banking, Telecommunications, and Digital Product Development. Skilled in GPT and Computer Vision, with a strong foundation in MLOps, data architecture, and scalable AI system design. Passionate about building real-world applications of machine learning and generative models.
 
-*   🌱 I’m currently researching on focusing on Computer Vision, Agentic AI, industry specific LLM applications: Vertical AI application development in MarTech, AgriTech, legalTech and Fintech.
+*   🔭 I’m currently working on AI and Machine Learning projects, focusing on [Specific area if any, e.g., LLM applications in Fintech].
+*   🌱 I’m currently learning [New Skill/Technology, e.g., Advanced Reinforcement Learning Techniques].
 *   👯 I’m looking to collaborate on innovative AI and Data Science projects, especially those with a social impact.
-*   🤔 I’m looking for help with AgriTech Drone Engineering & AutoTech AI development..
+*   🤔 I’m looking for help with [e.g., scaling MLOps pipelines for enterprise solutions].
 *   💬 Ask me about AI Strategy, Machine Learning, Data Science, MLOps, GPT, Computer Vision.
 *   📫 How to reach me: [prasadnimantha@gmail.com](mailto:prasadnimantha@gmail.com)
 *   😄 Pronouns: He/Him
@@ -128,22 +129,121 @@ Here are a few projects I'm proud of (You can add more!):
 
 ## 💼 My Professional Experience
 
-### Founder @ OpenLabs Research | Co-founder CTO @ Straton AI
-*([Start Date, e.g., Jan 2020] – Present)*
+### Co-Founder
+**Straton AI** · *Self-employed*
+*Nov 2024 - Present (7 mos)*
 
-*   Leading AI strategy, research, and development of innovative solutions.
-*   Designing and implementing scalable AI systems and MLOps pipelines.
-*   Driving product development from concept to deployment in areas like [e.g., Generative AI, Computer Vision, NLP].
-*   Key Technologies: Python, TensorFlow, PyTorch, GPT, MLOps, Cloud (AWS/GCP/Azure)
+**Skills:** Start-up Ventures · Start-up Leadership · Artificial Intelligence (AI)
+---
+### Consultant - Generative AI & ML Research
+**Confidential** · *Freelance*
+*Mar 2025 - Present (3 mos) | Australia*
 
-### [Previous Key Role, e.g., Lead AI Engineer] @ [Previous Company Name]
-*([Start Date] – [End Date])*
+Consulting on end-to-end AI and data engineering solutions in Databricks stacks for clients across the energy, insurance, and FMCG sectors. Design and implementation of scalable data pipelines, advanced analytics frameworks, and ML models to drive digital transformation and business innovation.
 
-*   [Responsibility/Achievement 1, e.g., Developed and deployed machine learning models for X, resulting in Y% improvement.]
-*   [Responsibility/Achievement 2, e.g., Led a team of N data scientists on project Z.]
-*   Key Technologies: [Tech used in this role]
+**Key Contributions:**
+*   Developed production-grade ML models for risk assessment (insurance), demand forecasting (FMCG), and asset optimization (energy).
+*   Built and optimized Delta Lake-based data architectures for unified batch and streaming data processing.
+*   Implemented end-to-end workflows using Databricks Workflows, MLflow, and Feature Store for scalable and governed machine learning operations.
+*   Enabled real-time analytics and insights through Spark Structured Streaming and event-driven pipelines.
+*   Provided expert guidance on cost-efficient architecture, CI/CD practices, and workspace governance for enterprise-scale deployments.
 
-*(Add more roles as needed)*
+**Technologies & Tools:** Databricks (SQL, PySpark, MLflow), Delta Lake, H2O AI, Apache Spark, Unity Catalog, AutoML, Power BI, AWS/GCP/Azure, dbt, REST APIs
+---
+### Consultant - Data Science & Generative AI Engineering
+**Rhino Partners** · *Freelance*
+*Aug 2024 - Present (10 mos) | Australia*
+
+Providing strategic consulting on AI, data engineering, and analytics initiatives to support fintech, energy and insurance product development. Delivered high-impact solutions by aligning advanced machine learning models with business goals and operational workflows.
+
+**Key Contributions:**
+*   Designed and implemented predictive models for customer behavior, credit scoring, and fraud analytics.
+*   Advised on data architecture, ETL pipelines, and scalable analytics systems.
+*   Collaborated with internal teams to optimize machine learning workflows, from model development to deployment.
+*   Supported data governance and compliance planning aligned with GDPR and APPI regulations.
+*   Delivered insights that directly influenced product strategy and improved decision-making.
+
+**Technologies & Tools:** Python, SQL, Databricks, ComputerVision, AWS, GCP, TensorFlow, Scikit-learn, Airflow, Docker, dbt, Tableau
+---
+### Founder
+**OpenLabs Research** · *Freelance*
+*Dec 2023 - Present (1 yr 6 mos) | Australia*
+
+I work on end-to-end vision and execution of advanced AI, robotics, and quantum computing solutions designed to future-proof organizations across industries. We are a deep-tech innovation hub, focused on delivering breakthrough technologies that drive real-world transformation.
+
+**Key Responsibilities & Achievements:**
+*   Development of AI-powered SaaS platforms across legal tech, fintech, agritech, marketing automation, and compliance.
+*   Pioneered research and prototype development in autonomous robotics for agriculture, logistics, and security applications.
+*   Initiated quantum computing research for next-generation optimization, encryption, and AI model acceleration.
+*   Delivered full-stack software solutions using modern frameworks (Next.js, Supabase, Tailwind, Prisma, Flutter).
+*   Advanced generative AI systems across multimodal domains—text, image, video, and voice—with agentic architectures.
+*   Built secure and scalable cloud-native infrastructures aligned with AI governance and data privacy frameworks.
+*   Led a global team of developers and researchers to deliver fast, agile deployments across experimental and commercial projects.
+---
+### Consultant - Data Science & Analytics
+**Habitto** · *Freelance*
+*Aug 2024 - Nov 2024 (4 mos) | Australia*
+
+Consulted on data architecture, analytics, and AI strategy to support product growth and regulatory compliance for a leading fintech platform in Japan. Enabled actionable insights by shaping data infrastructure, optimizing user behavior analytics, and Data Governance Framework design.
+
+**Key Contributions:**
+*   Designed and implemented Mixpanel and Firebase event tracking frameworks for user behavior analysis and product A/B testing.
+*   Built dashboards and cohort models to evaluate engagement, retention, and monetization metrics.
+*   Defined data governance models to ensure compliance with APPI and GDPR regulations.
+*   Advised on AI-driven personalization strategies and customer segmentation frameworks.
+*   Collaborated with cross-functional teams to align analytics efforts with business OKRs and roadmap initiatives.
+
+**Technologies & Tools:** Mixpanel, Firebase, BigQuery, SQL, Python, Google Tag Manager, dbt, RDS, Redshift
+---
+### Country Data Manager (CDO/LERO)
+**HSBC** · *Full-time*
+*May 2022 - Oct 2023 (1 yr 6 mos)*
+
+*   Heading the Data & Analytics Office at HSBC Sri Lanka & Maldives & maintaining the Data Governance process in the organisation.
+*   Implement data solutions to enable data sources to be effectively used for reporting, analysis, modelling, and specific use cases to support analytical enablers.
+*   Manage and support high volume and complex data processing to ensure completeness, accuracy and consistency.
+*   Manage Projects, work closely with local and regional stakeholders to design and maintain analytics enablers for supporting the needs of the Sri Lanka and Maldives markets.
+*   Lead Data-driven initiatives to increase revenue & decrease costs by adequately implementing measures in Data Commercialization.
+*   Execution of Data Strategy throughout the company verticals, overseeing the execution of Global Data policies & working with businesses to timely & effectively deliver Data solutions.
+*   Responsible for monitoring Data Management Framework, execution of policies across local businesses, maintaining Data Standards and best practices throughout OpCos.
+*   Maintaining Data Privacy Control Framework in the country businesses, bringing in best practices & implementing processes to adhere to Control Standards.
+*   Risk Management & Monitoring Operational Risk of the firm, overseeing & ensuring Risk Standards are met within the firm.
+*   Stakeholder Management throughout the Regional and Country OpCps to ensure collaboration across business & functions in the country.
+*   Project & IT management within the organization and Technology Partners to design & deliver Future State Architecture & embed Solution Control Framework for Data.
+*   Coordinate in Country Regulatory Exercise/Submissions linked to the assessment of Company Data Management, Privacy, Information Lifecycle Management across the organization.
+---
+### AGM - Data Science & Engineering | Data Protection Officer
+**Rhino Partners** · *Full-time*
+*Jan 2021 - May 2022 (1 yr 5 mos) | Singapore*
+
+*   Heading the Data Science Department of the organization and spearheading APAC, European and Northern American Clientele on Data Science Developments, Software Engineering & User Design Experience.
+*   Business Requirement gathering aimed to develop BI (Business Intelligence) & Data Science technologies and tools to support clientele.
+*   Develop and implement policies, standards and procedures for the architectural, scientific and technical work performed in the department, service, laboratory or firm.
+*   Planning, Engineering, and Testing of ML/Neural Network /Deep Learning models for business enhancement.
+*   Recruit personnel and oversee development and maintenance of staff competence in required areas.
+*   Supervising the UI design, architecture, development and inspection of technical projects or in the theoretical or applied scientific work of the department.
+*   Consultation and negotiation with clients to prepare specifications, explain proposals, present architectural or scientific research reports and findings.
+---
+### Community Contributor
+**OpenAI** · *Freelance*
+*Sep 2018 - May 2022 (3 yrs 9 mos)*
+---
+### Digital User Experience & Design
+**Dialog Axiata PLC** · *Full-time*
+*Nov 2015 - Dec 2020 (5 yrs 2 mos)*
+
+*   Product Development & Tracking, Digital UI Engineering Analytics , CX Sentiment Analytics, Digital Adoption & Marketing Analytics on MyDialog app and Dialog WEB ( dialog.lk)
+*   Handling full-spectrum analytics on the portfolios related to the Digital User Experience Design Digital Channel Management.
+*   Data Driven UI design coordination. Responsible for the Digital Product Portfolio Dataware-house & Data Enablement.
+*   Data preparation for Rule Engine development & Rule Engine Logic creation.
+*   Planning, Engineering, Testing & iteration of Predictive Models/Rule Engines/Machine Learning Models.
+*   Attending Ad-hoc data/analysis requirements of stakeholders, sharing relevant data after ETL in either by Table Creations in SQL, Reports or Temp- Dashboards.
+*   Translation of high-level business problems into granular model requirements.
+*   Data Modelling & Statistical Analysis for payments & fraud.
+---
+### Junior Executive - Market Analytics
+**Greenlink Tours Lanka Pvt Ltd** · *Full-time*
+*Mar 2013 - Dec 2013 (10 mos) | Colombo, Western Province, Sri Lanka · On-site*
 
 ---
 
